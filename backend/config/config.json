@@ -1,0 +1,23 @@
+{
+  "local": {
+    "username": "root",
+    "password": null,
+    "database": "mern-project",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "mern-project",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "mern-project",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
